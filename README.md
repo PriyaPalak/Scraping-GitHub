@@ -22,5 +22,5 @@ react-three-fiber,pmndrs,21100,https://github.com/pmndrs/react-three-fiber
 
 ````
 
-*I've used Python for this project. You can check out the **Jupyter notebook** for the project [here]()!*
+*I've used Python for this project. You can check out the **Jupyter notebook** for the project [here](https://github.com/PriyaPalak/Scraping-GitHub/blob/main/Scraping%20GitHub%20Jupyter%20Notebook.ipynb)!*
     
